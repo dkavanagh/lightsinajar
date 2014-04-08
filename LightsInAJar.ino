@@ -1,6 +1,6 @@
 /*
-  Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
+  LightsInAJar
+  Cycles 3 LEDs on and off gradually using PWM output
  */
  
 int led_1 = 0;
